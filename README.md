@@ -1,12 +1,8 @@
 # intro-climate-data-analysis
-A very basic introduction to loading and plotting data from Earth System Climate models.
 
-Climate data analysis tutorial
-An Introduction: Plotting your first temperature map
+This tutorial is a very basic introduction to getting started with hands-on data analysis of climate models from Earth System Climate models (usch as the Sixth Coupled Model Intercomparison Project CMIP6).
 
-This tutorial is an elementary introduction to getting started with hands-on data analysis of climate models from the Sixth Coupled Model Intercomparison Project (CMIP6).
-
-Intended users: Students with no prior experience in climate data analysis, and intoductory programming background.
+_Intended users: Students with no prior experience in climate data analysis, and intoductory programming background._
 
 ## Learning objectives:
 <ul> 
