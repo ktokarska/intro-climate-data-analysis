@@ -8,7 +8,7 @@ This tutorial is an elementary introduction to getting started with hands-on dat
 
 Intended users: Students with no prior experience in climate data analysis, and intoductory programming background.
 
-# Learning objectives:
+## Learning objectives:
 <ul> 
 <li> Read CMIP data (netcdf) files </li>
 <li> Understand the structure of data (spatial and temporal) </li>
