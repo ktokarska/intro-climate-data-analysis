@@ -9,10 +9,12 @@ This tutorial is an elementary introduction to getting started with hands-on dat
 Intended users: Students with no prior experience in climate data analysis, and intoductory programming background.
 
 # Learning objectives:
+<ul> 
+<li> Read CMIP data (netcdf) files </li>
+<li> Understand the structure of data (spatial and temporal) </li>
+<li> Plotting absolute temperature for one model (with respect to a given baseline)  </li>
+<li> Calculate and plot temperature change (anomaly) </li>
+<li> Additional tasks: Plot a multi-model map for a given period </li>
+<li> Further ideas for exploratory data analysis </li>
+</ul>
 
-    Read CMIP data (netcdf) files
-    Understand the structure of data (spatial and temporal)
-    Plotting absolute temperature for one model (with respect to a given baseline)
-    Calculate and plot temperature change (anomaly)
-    Additional tasks: Plot a multi-model map for a given period
-    Further ideas for exploratory data analysis
