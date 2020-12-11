@@ -6,7 +6,7 @@ _Intended users: Students with no prior experience in climate data analysis, and
 
 ## Learning objectives:
 <ul> 
-<li> Read CMIP data (netcdf) files </li>
+<li> Read CMIP climate model  data (netcdf) files </li>
 <li> Understand the structure of data (spatial and temporal) </li>
 <li> Plotting absolute temperature for one model (with respect to a given baseline)  </li>
 <li> Calculate and plot temperature change (anomaly) </li>
